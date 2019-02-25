@@ -9,8 +9,7 @@
    - uses **Branch and pruning**
      - **branching**: decompse the problem into subproblems and solve the subproblems (try all possible values for a variable until a solution is found or it can be proven than no solution exists)
      - **pruning**: use constraints to remove, from the variable domains, values that cannot belong to any solution
-     <pre><code>
-       propagate(){
+     <pre><code> propagate(){
          repeat
            select a constraint c;
            if c is infeasible given the domain store then
