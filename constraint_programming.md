@@ -7,5 +7,5 @@
    - given enough time finds the optimal solution for an OMP problem
    - focus on feasibility
    - uses **Branch and pruning**
-     - **branching**: decompse the problem into subproblems and solve the subproblems
+     - **branching**: decompse the problem into subproblems and solve the subproblems (try all possible values for a variable until a solution is found or it can be proven than no solution exists)
      - **pruning**: 
