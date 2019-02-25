@@ -1,5 +1,34 @@
 # Optimization_Problems
 
-### General information
-    - Optimization problems are:
-      - 
+### Mathematcal techniques
+   - Calculus methods
+   - Nonlinear programming
+   - Quadratic programming
+   - Linear programming
+   - Geometric programming
+   - Integer programming
+   - Stochastic programming
+   - Separable programming
+   - Multiobjective programming
+   - [Dynamic programming]()
+   - Game theory
+   - Network methods: CPM, PERT
+### Stochastic process techniques
+   - Stat decision theory
+   - Markov processes
+   - Queueing theory
+   - Renewal theory
+   - Simulation methods
+   - Reliability theory
+### Statistical methods
+   - Regression analysis
+   - Cluser analysis, pattern recognition
+   - Discriminate analysis
+### Modern optimization techniques
+   - Genetic algorithms
+   - Simulated annealing
+   - Ant colony optimization
+   - Particle swarm optimization
+   - Neural networks
+   - Fuzzy optimization
+   
