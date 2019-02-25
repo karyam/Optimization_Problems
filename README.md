@@ -10,6 +10,7 @@
    - Stochastic programming
    - Separable programming
    - Multiobjective programming
+   - Constraint programming
    - [Dynamic programming]()
    - Game theory
    - Network methods: CPM, PERT
